@@ -71,8 +71,10 @@ export const DATA = {
       location: "Remote",
       title: "Software Engineer",
       logoUrl: "/stealth.png",
+      href: "#",
       start: "May 2024",
       end: "Present",
+      description: "",
     }
   ],
   hackathons: [
