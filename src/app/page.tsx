@@ -95,11 +95,11 @@ export default function Page() {
                 <div className="inline-block rounded-lg bg-foreground text-background px-3 py-1 text-sm">
                   Hackathons
                 </div>
-                <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
+                <p className="text-muted-foreground md:text-l/relaxed lg:text-base/relaxed l:text-l/relaxed">
                   During my time in university, I attended
                   some hackathons. People from around the
                   country would come together and build incredible things in 2-3
-                  days. 
+                  days.
                 </p>
               </div>
             </div>
