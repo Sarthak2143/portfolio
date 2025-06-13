@@ -28,6 +28,7 @@ export const DATA = {
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
+    {href: "https://sarthak2143.bearblog.dev", icon: NotebookIcon, label: "Blog"},
   ],
   contact: {
     email: "sarthaktomar2143@gmail.com",
